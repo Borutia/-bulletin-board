@@ -1,2 +1,2 @@
-# -bulletin-board
+# bulletin_board
 The bulletin board
